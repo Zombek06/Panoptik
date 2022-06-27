@@ -49,7 +49,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Panop.urls'
+ROOT_URLCONF = 'panop.urls'
 
 TEMPLATES = [
     {
@@ -67,7 +67,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Panop.wsgi.application'
+WSGI_APPLICATION = 'panop.wsgi.application'
 
 
 # Database
