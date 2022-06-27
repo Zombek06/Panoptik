@@ -1,5 +1,5 @@
 """
-WSGI config for Panop project.
+WSGI config for panop project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

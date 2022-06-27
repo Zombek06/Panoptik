@@ -1,5 +1,5 @@
 """
-ASGI config for Panop project.
+ASGI config for panop project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
